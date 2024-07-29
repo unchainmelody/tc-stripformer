@@ -1,7 +1,7 @@
 # TC-Stripformer
 Pytorch Implementation of "[tc-stripformer]" 
 
-<img src="Figure/TC.png" width = "800" height = "200" div align=center />
+<img src="Figure/TC.png" width = "800" height = "350" div align=center />
 
 ## Installation
 The implementation is modified from "[DeblurGANv2](https://github.com/VITA-Group/DeblurGANv2)"
