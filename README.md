@@ -1,4 +1,4 @@
-# Stripformer (ECCV 2022 Oral)
+# TC-Stripformer
 Pytorch Implementation of "[tc-stripformer]" 
 
 <img src="Figure/TC.png" width = "800" height = "200" div align=center />
